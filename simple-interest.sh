@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <github-final-project>
+   # <brahmi15>
 
    # Input:
    # p, principal amount
